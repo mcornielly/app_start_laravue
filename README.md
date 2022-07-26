@@ -1,3 +1,32 @@
+
+# Application Laravel - Vuejs with AdminLTE 3
+## Application Multipropositie
+
+
+## Instalation
+```
+-- Laravel 7
+-- composer require laravel/ui:^2.4
+-- php artisan ui vue --auth
+-- npm install and npm run dev
+-- https://github.com/ColorlibHQ/AdminLTE/releases/tag/v3.2.0
+-- npm install admin-lte@^3.2 --save
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ----
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
