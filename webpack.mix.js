@@ -13,3 +13,13 @@ const mix = require('laravel-mix');
 
 mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css');
+
+mix.browserSync({
+    proxy: 'http://app_start_laravue.test',
+    // browser: 'firefox'
+    browser: 'C:\\Program Files\\Firefox Developer Edition\\firefox.exe',//Firefox Developer
+    // open: false
+});
+
+//deshabilita las notificaciones de larevel mix.
+mix.disableNotifications();
