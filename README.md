@@ -2,16 +2,22 @@
 
 ## Application Multipropositie
 
+- Laravel 7
+- Vuejs
 ## Instalation
+- composer install
+- npm install
 
 ```
--- Laravel 7
--- composer require laravel/ui:^2.4
--- php artisan ui vue --auth
 -- npm install and npm run dev
 -- https://github.com/ColorlibHQ/AdminLTE/releases/tag/v3.2.0
 -- npm install admin-lte@^3.2 --save
+
 ```
+# Dependency
+- laravel/framework : "^7.0"
+- composer require laravel/ui : ^2.4 ()
+- php artisan ui vue --auth
 
 ## Ref Tutorial
 
